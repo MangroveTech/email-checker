@@ -1,0 +1,17 @@
+{
+  "name": "email-addr",
+  "version": "0.0.0",
+  "description": "Assistant of E-mail address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lixiaojun",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "2.12.3",
+    "debug": "0.8.1"
+  }
+}

@@ -1,1 +1,1 @@
-var EmailChecker = require('./lib/checker').EmailChecker;
+exports.GmailChecker = require('./lib/checker').GmailChecker;
